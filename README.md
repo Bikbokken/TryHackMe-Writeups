@@ -12,4 +12,4 @@ The writeup does **NOT** contain the full flag. Parts of the flag is censored du
 
 
 **Challenges**
-- Wonderland - Medium - https://tryhackme.com/room/wonderland
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Wonderland">Wonderland - Medium - https://tryhackme.com/room/wonderland</a>
