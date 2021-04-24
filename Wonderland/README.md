@@ -9,17 +9,15 @@ This is the "Wonderland" Room on <a href="https://tryhackme.com">TryHackMe.com</
 
 
 # Table of content
-- [Wonderland Writeup - Medium](#wonderland-writeup---medium)
-- [Table of content](#table-of-content)
-- [Tools used:](#tools-used)
+- [Tools used](#tools-used)
 - [Lets get going:](#lets-get-going)
-  - [## What are we dealing with?](#-what-are-we-dealing-with)
-  - [## Enumerating the website](#-enumerating-the-website)
-  - [## Pictures are full of secrets](#-pictures-are-full-of-secrets)
-  - [## Allice -> Rabbit](#-allice---rabbit)
-  - [## Rabbit -> Hatter](#-rabbit---hatter)
-  - [## Root.txt](#-roottxt)
-  - [## User.txt](#-usertxt)
+  - [What are we dealing with?](#what-are-we-dealing-with)
+  - [Enumerating the website](#enumerating-the-website)
+  - [Pictures are full of secrets](#pictures-are-full-of-secrets)
+  - [Allice -> Rabbit](#allice---rabbit)
+  - [Rabbit -> Hatter](#rabbit---hatter)
+  - [Root.txt](#roottxt)
+  - [User.txt](#usertxt)
 
 
 
