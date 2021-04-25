@@ -12,4 +12,13 @@ The writeup does **NOT** contain the full flag. Parts of the flag is censored du
 
 
 **Challenges**
-- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Wonderland">Wonderland - Medium - https://tryhackme.com/room/wonderland</a>
+
+Easy:
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Starting-out-in-Cyber-sec">Starting Out in Cyber Sec - https://tryhackme.com/room/startingoutincybersec</a>
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Linux-Fundamentals-Part-1">Linux Fundamentals Part 1 - https://tryhackme.com/room/linux1</a>
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Linux-Fundamentals-Part-2">Linux Fundamentals Part 2 - https://tryhackme.com/room/linux2</a>
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Introductory-Researching">Introductory Researching - https://tryhackme.com/room/introtoresearch</a>
+
+
+Medium:
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Wonderland">Wonderland - https://tryhackme.com/room/wonderland</a>
