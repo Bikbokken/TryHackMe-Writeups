@@ -159,19 +159,19 @@ Afterwards i was able to transfer the file from the machine to my local machine 
 
 I could now ``strings`` or use ``cutter`` to debug the program. I chose to use ``strings`` to being with, and it worked fine. I found ```/bin/echo -n 'Probably by ' && date --date='next hour' -R``` on one of the lines, which is the code the executable file is trying to run. ``date`` is also a relative path, so it could be exploited similar to the ````random.py```` exploit.
 
-I created a file called ``` random``` with the content:
+I created a file called ``` date``` with the content:
 ```
 /bin/bash
 ```
 
-I marked the file as an executable with the command ```chmod +x random```.
+I marked the file as an executable with the command ```chmod +x date```.
 
 Running the file now will not work, since the file is not a python script like the ``random`` one. I had to change the path enviroment variable.
 I did by using the following command:
 ````bash
 └─$ export PATH=/home/rabbit:$PATH
 ````
-Running the file now made me the user ``hatter``. In the ``hatter`` home directory there was a password.txt file containing a password file. Using the ``id`` command told me i still had the rabbit user gid. I chose trying sshing to the user ``hatter`` using the password from the ``password.txt`` file. It worked!
+Running the file now made me the user ``hatter``. In the ``hatter`` home directory there was a ``password.txt`` file containing a password file. Using the ``id`` command told me i still had the rabbit user gid. I chose trying sshing to the user ``hatter`` using the password from the ``password.txt`` file. It worked!
 
 ````bash
 └─$ su hatter
