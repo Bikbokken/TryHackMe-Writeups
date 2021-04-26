@@ -19,6 +19,8 @@ Easy:
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Linux-Fundamentals-Part-2">Linux Fundamentals Part 2 - https://tryhackme.com/room/linux2</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Introductory-Researching">Introductory Researching - https://tryhackme.com/room/introtoresearch</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Nmap">Nmap - https://tryhackme.com/room/furthernmap</a>
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Web-Fundamentals">Web Fundamentals - https://tryhackme.com/room/webfundamentals</a>
+
 
 
 
