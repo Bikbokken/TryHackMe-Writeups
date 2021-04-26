@@ -17,6 +17,7 @@ Easy:
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Starting-Out-In-Cyber-Sec">Starting Out in Cyber Sec - https://tryhackme.com/room/startingoutincybersec</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Linux-Fundamentals-Part-1">Linux Fundamentals Part 1 - https://tryhackme.com/room/linux1</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Linux-Fundamentals-Part-2">Linux Fundamentals Part 2 - https://tryhackme.com/room/linux2</a>
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Linux-Fundamentals-Part-2">Linux Fundamentals Part 3 - https://tryhackme.com/room/linux3</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Introductory-Researching">Introductory Researching - https://tryhackme.com/room/introtoresearch</a>
 
 
