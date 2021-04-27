@@ -22,6 +22,7 @@ Easy:
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Nmap">Nmap - https://tryhackme.com/room/furthernmap</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Web-Fundamentals">Web Fundamentals - https://tryhackme.com/room/webfundamentals</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Introductory-Networking">Introductory Networking - https://tryhackme.com/room/introtonetworking</a>
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Pickle-Rick">Pickle Rick - https://tryhackme.com/room/picklerick</a>
 
 
 Medium:
