@@ -25,7 +25,7 @@ Easy:
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Pickle-Rick">Pickle Rick - https://tryhackme.com/room/picklerick</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Hydra">Hydra - https://tryhackme.com/room/hydra</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/The-find-command">The Find Command - https://tryhackme.com/room/thefindcommand</a>
-- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/How-websites.work">How Websites Work - https://tryhackme.com/room/howwebsiteswork</a>
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/How-websites-work">How Websites Work - https://tryhackme.com/room/howwebsiteswork</a>
 
 
 
