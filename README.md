@@ -24,6 +24,9 @@ Easy:
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Introductory-Networking">Introductory Networking - https://tryhackme.com/room/introtonetworking</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Pickle-Rick">Pickle Rick - https://tryhackme.com/room/picklerick</a>
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Hydra">Hydra - https://tryhackme.com/room/hydra</a>
+- <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/The-find-command">The Find Command - https://tryhackme.com/room/thefindcommand</a>
+
+
 
 Medium:
 - <a href="https://github.com/Bikbokken/TryHackMe-Writeups/tree/main/Wonderland">Wonderland - https://tryhackme.com/room/wonderland</a>
