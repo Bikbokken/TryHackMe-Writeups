@@ -7,6 +7,12 @@ This is the "The find command" Room on <a href="https://tryhackme.com">TryHackMe
 
 <h1 style="color:Red">I encourage everyone to try completing the tasks without any help. Only use this sheet if you're stuck.</h1>
 
+# Table of Contents
+- [Task 1 - Start finding](#task-1---start-finding)
+- [Task 2 - Be more specific](#task-2---be-more-specific)
+- [Task 3 - Know exactly what you're looking for](#task-3---know-exactly-what-youre-looking-for)
+- [Task 4 - Have you found it?](#task-4---have-you-found-it)
+
 
 # Task 1 - Start finding
 Read and follow the instructions.
