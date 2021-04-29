@@ -1,6 +1,6 @@
-# Hydra - Easy 
+# Hydra Writeup - Easy 
 
-This is the "Hydra" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "Hydra" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/hydra
 

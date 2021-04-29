@@ -1,6 +1,6 @@
-# Nmap - Easy 
+# Nmap Writeup - Easy 
 
-This is the "Nmap" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "Nmap" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/furthernmap
 

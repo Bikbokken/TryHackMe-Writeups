@@ -1,6 +1,6 @@
-# Pickle Rick - Easy 
+# Pickle Rick Writeup - Easy 
 
-This is the "Pickle Rick" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "Pickle Rick" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/picklerick
 

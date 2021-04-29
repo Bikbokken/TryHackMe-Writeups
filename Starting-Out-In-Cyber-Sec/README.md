@@ -1,6 +1,6 @@
 # Starting Out In Cyber Sec Writeup - Easy 
 
-This is the "Starting Out In Cyber Sec" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "Starting Out In Cyber Sec" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/startingoutincybersec
 

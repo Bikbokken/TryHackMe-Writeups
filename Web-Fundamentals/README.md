@@ -1,6 +1,6 @@
-# Web Fundamentals - Easy 
+# Web Fundamentals Writeup - Easy 
 
-This is the "Web Fundamentals" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "Web Fundamentals" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/webfundamentals
 

@@ -1,6 +1,6 @@
 # Wonderland Writeup - Medium 
 
-This is the "Wonderland" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "Wonderland" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/wonderland
 

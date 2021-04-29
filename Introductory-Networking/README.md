@@ -1,6 +1,6 @@
 # Introductory Networking Writeup - Easy 
 
-This is the "Introductory Networking" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "Introductory Networking" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/introtonetworking
 

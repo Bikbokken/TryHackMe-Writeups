@@ -1,6 +1,6 @@
-# Linux Fundamentals Part 3 - Easy 
+# Linux Fundamentals Part 3 Writeup - Easy 
 
-This is the "Linux Fundamentals Part 3" room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "Linux Fundamentals Part 3" room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/linux3
 

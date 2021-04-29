@@ -1,6 +1,6 @@
 # Introductory Researching Writeup - Easy 
 
-This is the "Introductory Researching" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "Introductory Researching" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/introtoresearch
 

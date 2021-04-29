@@ -1,6 +1,6 @@
-# The find command - Easy 
+# The find command Writeup - Easy 
 
-This is the "The find command" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "The find command" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/thefindcommand
 

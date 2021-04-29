@@ -1,7 +1,7 @@
 
-# How Websites Work - Easy 
+# How Websites Work Writeup - Easy 
 
-This is the "How Websites Work" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
+This is a walkthrough of the "How Websites Work" Room on <a href="https://tryhackme.com">TryHackMe.com</a>. 
 
 **URL:** https://tryhackme.com/room/howwebsiteswork
 
